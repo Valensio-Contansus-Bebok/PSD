@@ -1,7 +1,7 @@
 ---
-title: "Introduction to R"
-author: "Riki Herliansyah,"
-date: "21/11/2021"
+title: "PSD"
+author: "Valensio Contansus Bebok"
+date: "7/03/2025"
 output: github_document
 
 ---
